@@ -61,7 +61,7 @@ Smart-Attendance-Management-System/
 
 **⚙️ Installation & Setup**
 1️⃣ Clone the Repository
-git clone https://github.com/gitwithsonu015/smart-attendance-management-system.git
+git clone https://github.com/Your-Username/smart-attendance-management-system.git
 
 2️⃣ Backend Setup
 cd server
